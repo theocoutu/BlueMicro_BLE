@@ -51,7 +51,7 @@ void setupKeymap() {
         KC_I,      KC_O,    KC_P,    KC_LBRC,  KC_RBRC, KC_BSLS, KC_DELETE,  KC_END,        KC_PGDOWN, \
         KC_K,      KC_L,    KC_SCLN, KC_QUOT,  KC_ENT, \
         KC_COMM,   KC_DOT,           KC_SLSH,  KC_RSFT,                      KC_UP, \
-                   KC_RALT, KC_APP,  KC_RCTRL,                   KC_LEFT,    KC_DOWN,       KC_RIGHT, \
+                   KC_RALT, KC_APP,  KC_RCTRL, KC_RGUI,          KC_LEFT,    KC_DOWN,       KC_RIGHT, \
         KC_ESC,             KC_F1,   KC_F2,    KC_F3,   KC_F4,   KC_F5,      KC_F6, \
         KC_GRV,    KC_1,    KC_2,    KC_3,     KC_4,    KC_5,    KC_6,       KC_7,  \
         KC_TAB,    KC_Q,    KC_W,    KC_E,     KC_R,    KC_T,    KC_Y,       KC_U, \  
