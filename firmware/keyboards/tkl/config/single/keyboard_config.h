@@ -60,7 +60,7 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
     { K27,   K28,   K29,   K30,   K31,  KC_NO, KC_NO, KC_NO, KC_NO }, \
     { K32,   K33,  KC_NO,  K34,   K35,  KC_NO, KC_NO,  K36,  KC_NO }, \
     { KC_NO, K37,   K38,   K39,   K40,  KC_NO,  K41,   K42,   K43 }, \
- esc{ K44,  KC_NO,  K45,   K46,   K47,   K48,   K49,   K50,  KC_NO }, \
+    { K44,  KC_NO,  K45,   K46,   K47,   K48,   K49,   K50,  KC_NO }, \
     { K51,   K52,   K53,   K54,   K55,   K56,   K57,   K58,  KC_NO }, \
     { K59,   K60,   K61,   K62,   K63,   K64,   K65,   K66,  KC_NO }, \
     { K67,   K68,   K69,   K70,   K71,   K72,   K73,   K74,  KC_NO }, \
